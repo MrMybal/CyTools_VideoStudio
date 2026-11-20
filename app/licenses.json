@@ -1,0 +1,14 @@
+[
+  {"kind":"Library","name":"CyUI","license":"MIT","url":"https://github.com/MrMybal/CyUI"},
+  {"kind":"Library","name":"CyToolsCore","license":"MIT","url":"https://github.com/MrMybal/CyToolsCore"},
+  {"kind":"Library","name":"CyMCPSDK","license":"MIT","url":"https://github.com/MrMybal/CyMCPSDK"},
+  {"kind":"Engine","name":"FFmpeg","license":"LGPL-2.1-or-later / GPL depending on the selected build","url":"https://ffmpeg.org/legal.html"},
+  {"kind":"Engine","name":"ComfyUI","license":"GPL-3.0","url":"https://github.com/Comfy-Org/ComfyUI"},
+  {"kind":"Engine","name":"PyTorch","license":"BSD-3-Clause","url":"https://github.com/pytorch/pytorch"},
+  {"kind":"Engine","name":"NVIDIA RTX Video and DLSS","license":"NVIDIA Software License Agreements","url":"https://developer.nvidia.com/rtx-video-sdk"},
+  {"kind":"Engine","name":"CyVR Video Enhancer","license":"Apache-2.0","url":"https://github.com/MrMybal/CyVR_VideoEnhancer"},
+  {"kind":"Engine","name":"MiniMax H3 bridge","license":"See the linked installation","url":"https://github.com/MrMybal/CyTools_MiniMaxH3"},
+  {"kind":"Engine","name":"VideoToGaussian","license":"See the linked installation","url":"https://github.com/MrMybal/CyTools_VideoToGaussian"},
+  {"kind":"Engine","name":"VideoToStereo3D","license":"See the linked installation","url":"https://github.com/MrMybal/CyTools_VideoToStereo3D"},
+  {"kind":"Engine","name":"ComfyFlow","license":"See the linked installation","url":"https://github.com/MrMybal/CyTools_ComfyFlow"}
+]

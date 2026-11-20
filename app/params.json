@@ -1,0 +1,8 @@
+{
+  "source": "D:/Media/input.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fit": "contain",
+  "codec": "h264",
+  "layout": "mono"
+}

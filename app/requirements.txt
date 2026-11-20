@@ -1,0 +1,7 @@
+# Install the CyToolsCore wheel or local checkout first.
+cytools-core==0.12.0
+imgui-bundle==1.92.900
+moderngl==5.12.0
+trimesh>=4.4,<6
+numpy>=1.26,<3
+Pillow>=10,<13
